@@ -56,15 +56,15 @@ CAFV Eligible Vehicles YoY Change: +3.74%
 
 Based on analyzed statewide trends:
 
-# * Reevaluate CAFV Incentive Thresholds
+* Reevaluate CAFV Incentive Thresholds
 Many EVs exceed current eligibility criteria; adjusting caps could broaden program effectiveness.
-# * Prioritize BEV-Focused Infrastructure
+* Prioritize BEV-Focused Infrastructure
 With BEVs dominating market growth, investment should emphasize fast-charging networks.
-# * Encourage Manufacturer Diversity
+* Encourage Manufacturer Diversity
 Tesla's outsized share introduces market concentration risks. Incentives may help diversify adoption.
-# * Monitor Cost-to-Range Efficiency
+* Monitor Cost-to-Range Efficiency
 Tracking range-per-dollar over time helps assess improvements in consumer value and market competitiveness.
-# * Segment EV Adoption by Region
+* Segment EV Adoption by Region
 Geographic insights can guide targeted infrastructure and outreach strategies.
 
 # Technical Notes
