@@ -98,3 +98,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 # Attribution
 Dashboard Design & Analysis © 2025 Sriram Kambhampati
 Licensed under the MIT License.
+
+# Download Interactive Excel Dashboard
+
+[Download EV Market Dashboard (Excel)](https://docs.google.com/spreadsheets/d/1cCknRd0DFf_Eyb78fCpSV5d4eIIX-_TO/export?format=xlsx)
