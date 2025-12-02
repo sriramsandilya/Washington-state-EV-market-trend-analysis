@@ -18,13 +18,13 @@ The full dataset was cleaned, shaped, and transformed using Power Query before a
 
 - Power Query Processing Summary:
 
-* Loaded 257K+ rows into Excel via Power Query
-* Standardized column names and data types
-* Created analytical flags (BEV/PHEV, CAFV eligibility)
-* Removed inconsistent values and handled missing fields
-* Formatted the dataset into an analysis-ready structured table
+    * Loaded 257K+ rows into Excel via Power Query
+    * Standardized column names and data types
+    * Created analytical flags (BEV/PHEV, CAFV eligibility)
+    * Removed inconsistent values and handled missing fields
+    * Formatted the dataset into an analysis-ready structured table
 
-
+![Power Query Screenshot](https://raw.githubusercontent.com/sriramsandilya/Washington-state-EV-market-trend-analysis/main/PowerQuery.png)
 
 # 3. Data Structure Overview
 The dataset contains statewide EV registration records, where each row represents a single vehicle. Key fields include:
