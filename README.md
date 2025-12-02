@@ -12,7 +12,21 @@ Understanding EV adoption patterns is increasingly important for transportation 
 
 The dashboard consolidates KPIs, trend visualizations, and slicer-driven interactivity to provide both high-level summaries and deep-dive analytics.
 
-# 2. Data Structure Overview
+# 2. Data Import and Tranformation
+The project uses the Washington State Department of Licensing (DOL) EV Population Dataset, containing ~257,635 vehicle records.
+The full dataset was cleaned, shaped, and transformed using Power Query before analytical modeling and dashboard creation.
+
+- Power Query Processing Summary:
+
+* Loaded 257K+ rows into Excel via Power Query
+* Standardized column names and data types
+* Created analytical flags (BEV/PHEV, CAFV eligibility)
+* Removed inconsistent values and handled missing fields
+* Formatted the dataset into an analysis-ready structured table
+
+
+
+# 3. Data Structure Overview
 The dataset contains statewide EV registration records, where each row represents a single vehicle. Key fields include:
 * Make, Model, Model Year
 * Electric Range (miles)
@@ -23,14 +37,14 @@ The dataset contains statewide EV registration records, where each row represent
 
 While the dataset is structured as a single flat file, it follows a typical fact table with several descriptive attributes.
 
-# 3. Executive Summary
+# 4. Executive Summary
 Washington State’s EV market has expanded rapidly over the past decade, with accelerated growth beginning around 2020. BEVs account for the majority of the market, driven by improvements in range and an expanding charging network. Tesla remains the dominant manufacturer statewide, significantly influencing overall trends. Range performance continues to improve YOY, while CAFV eligibility has increased modestly.
 
 Below is a snapshot of the dashboard used to explore these trends:
 
 <img width="558" height="350" alt="image" src="https://github.com/user-attachments/assets/5f5f47e9-c3d8-4f27-a46e-ace45a018ffc" />
 
-# 4. Insights Deep Dive
+# 5. Insights Deep Dive
 * EV Adoption Over Time
 EV registrations surged beginning in 2020, reflecting market expansion and better vehicle availability but saw a steep decrease post 2023.
 YoY EV Growth (2024 → 2025): –48%
@@ -52,7 +66,7 @@ Avg. EV Range YoY Improvement: +10.11%
 Eligibility improved modestly, suggesting more new EVs meet incentive requirements.
 CAFV Eligible Vehicles YoY Change: +3.74%
 
-# 5. Recommendation Summary
+# 6. Recommendation Summary
 
 Based on analyzed statewide trends:
 
