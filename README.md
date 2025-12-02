@@ -42,7 +42,7 @@ Washington State’s EV market has expanded rapidly over the past decade, with a
 
 Below is a snapshot of the dashboard used to explore these trends:
 
-<img width="558" height="350" alt="image" src="https://github.com/user-attachments/assets/5f5f47e9-c3d8-4f27-a46e-ace45a018ffc" />
+![Dashboard Overview](https://raw.githubusercontent.com/sriramsandilya/Washington-state-EV-market-trend-analysis/main/DashboardSnippet.png)
 
 # 5. Insights Deep Dive
 * EV Adoption Over Time
